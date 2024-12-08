@@ -1,4 +1,4 @@
-# **AgroMap: Herramientas para la Visualización de Cultivos**
+# **AgroMap: Herramientas para la visualización de cultivos**
 
 AgroMap es una aplicación diseñada para facilitar la visualización de datos geográficos y variables relacionadas con cultivos. Este proyecto responde a las necesidades de diversas áreas dentro de la empresa X, donde los usuarios requieren gráficos y representaciones visuales pero enfrentan limitaciones por la falta de conocimiento en programación y herramientas geoespaciales.
 
