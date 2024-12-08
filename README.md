@@ -67,8 +67,3 @@ Esta herramienta está diseñada para ingresar manualmente datos segmentados por
 
 ---
 
-## **Cómo usar este repositorio**
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/agromap.git
-   cd agromap
