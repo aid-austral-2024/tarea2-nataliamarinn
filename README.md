@@ -5,9 +5,9 @@ AgroMap es una aplicación diseñada para facilitar la visualización de datos g
 ## **Características principales**
 AgroMap cuenta con varias herramientas para explorar, analizar y visualizar datos de cultivos de manera sencilla e interactiva. Entre las principales funcionalidades se encuentran:
 
-1. **Visualización de series de tiempo por delegación.**
-2. **Generación de mapas interactivos basados en datos del usuario.**
-3. **Segmentación y visualización de datos por regiones específicas (SAGyP y GEA).**
+1. **Visualización la evolución de distintas variables como la superficie sembrada, superficie cosechada y producción por delegación.**
+2. **Generación de mapas teniendo en cuenta las delegaciones de la Secretaría Agricultura Ganadería y Pesca (SAGyP)**
+3. **Segmentación y visualización de datos por regiones específicas delimitadas por la empresa.**
 
 ---
 
@@ -57,11 +57,6 @@ Esta herramienta está diseñada para ingresar manualmente datos segmentados por
 
 - **Procesamiento previo:**
   - Se realizaron tareas como la asignación de departamentos a delegaciones, filtrado de provincias irrelevantes y el cálculo de totales por delegación.
-
-- **Tecnologías utilizadas:**
-  - `Shiny` para el desarrollo de la interfaz interactiva.
-  - `ggplot2` y `leaflet` para la generación de gráficos y mapas.
-  - `dplyr` y `sf` para la manipulación de datos geo-espaciales.
 
 ![Desarrollo](recursos_README/info.png)
 
