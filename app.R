@@ -39,7 +39,7 @@ ui <- fluidPage(
     tabPanel(
       "Home",
       fluidPage(
-        titlePanel(h2("Herramientas para la Visualización de Cultivos")),
+        titlePanel(h2("Herramientas para la visualización de cultivos")),
         mainPanel(
           h4("Objetivo de AgroMap"),
           p("AgroMap ha sido diseñado con el propósito de facilitar la visualización de datos geográficos y de variables relacionadas con cultivos. Muchas áreas dentro de la empresa X requieren de gráficos y representaciones visuales, pero su acceso y comprensión se ve limitada debido a la falta de conocimiento en programación o en el manejo de herramientas especializadas en geometrías espaciales."),
